@@ -1,0 +1,1 @@
+Farklı işaret işleme tekniklerini kullanarak elektrik makinalarında durum gözlemleme ve hata tespiti
