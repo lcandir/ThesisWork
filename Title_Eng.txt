@@ -1,1 +1,0 @@
-Condition monitoring and fault detection in electrical machines using different techniques of signal processing
