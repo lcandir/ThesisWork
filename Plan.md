@@ -8,6 +8,8 @@
 
     ** SAYP başvurusu için gerekli belgeler dizine eklendi. Belgelerin nasıl doldurulacağı ile ilgili araştırma devam ediyor. Internette bu konuda bir örnek bulamadım. İş yerindeki tecrübelere ulaşmaya çalışıyorum. Konuyu detaylı olarak belirlemeden başvuru mümkün görünüyor ancak bütçe planlaması konusunda soru işaretlerim var. 28.03.2017
     
-* Araştırma çalışmalarına devam edilecek. Midtermlerden sonra konuyla ilgili bir görüşme yapılabilir. (07.04.2017)
+* Araştırma çalışmalarına devam edilecek. Midtermlerden sonra konuyla ilgili bir görüşme yapılabilir. (05.05.2017)
     
 * Konu ve proje çalışmaları şekillenince plan güncellenecektir.
+
+   ** Geçtiğimiz haftalarda annemin ameliyatı sebebi ile Malatya'da olmam ve sonrasında kuzenimizi kaybetmemiz sebebi ile planda aksaklıklar yaşandı. Eylem maddelerinin süreleri bu sebeple uzatılmıştır. 18.04.2017
