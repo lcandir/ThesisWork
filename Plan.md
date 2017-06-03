@@ -1,15 +1,20 @@
-** Yakın vadede yapılması planlanan işler
+# Tez Çalışmaları
 
-* Condition monitoring, fault tolarant drive, Control algotihms, fault detection vb anahtar kelimelerle literatür aramsı yapılarak konunun netleşmesine çalışılacak, bulunan makaleler Mendeley üzerinde 'ThesisWork' adı altında bir klasörde tutulacak. 27.03.2017
+## Alınan Kararlar
 
-    ** Makalele okumaya devam ediyorum. Mendeleyde biriktirip, üzerine notlar alıp, ilgimi çekecek bir konu bulmaya çalışıyorum. 28.03.2017
-    
-* SAYP başvurusu yapılması için gerekli belgeler vs araştırılacak. Dokümanlar dizinde 'SAYP' adlı klasörde tutulacak. 27.03.2017
+- Makalelerin Mendeley'de 'PowerLab altında bir klasörde' tutuluyor. (G1)
+- SAYP dokümanları GitHub'da SAYP kalsöründe tutuluyor.
 
-    ** SAYP başvurusu için gerekli belgeler dizine eklendi. Belgelerin nasıl doldurulacağı ile ilgili araştırma devam ediyor. Internette bu konuda bir örnek bulamadım. İş yerindeki tecrübelere ulaşmaya çalışıyorum. Konuyu detaylı olarak belirlemeden başvuru mümkün görünüyor ancak bütçe planlaması konusunda soru işaretlerim var. 28.03.2017
-    
-* Araştırma çalışmalarına devam edilecek. Midtermlerden sonra konuyla ilgili bir görüşme yapılabilir. (05.05.2017)
-    
-* Konu ve proje çalışmaları şekillenince plan güncellenecektir.
+## Eylem Maddeleri
 
-   ** Geçtiğimiz haftalarda annemin ameliyatı sebebi ile Malatya'da olmam ve sonrasında kuzenimizi kaybetmemiz sebebi ile planda aksaklıklar yaşandı. Eylem maddelerinin süreleri bu sebeple uzatılmıştır. 18.04.2017
+- G2'ye kadar literatür taramasının tamamlanması hedefleniyor. Sadece cond. monitoring değil daha genel kapsamlı araştırma yapılarak konuya karar verilmeye çalışılacak.
+- Makaleler genel hatlarıyla konsept hakkında bir fikir verecek şekilde okunacak. Bu aşamada review, trend topics vs makaleleri de okunabilir.
+- Nihayi hedef konunun belirlenmesi ve yaz sonu gelmeden! bir zaman çizelgesi oluşturulması olacak.
+- Çalışmalar ve planlar 2 dönem içinde yüksek lisansı bitirme hedefi ile yapılacak.
+- Particle Filter, Modal Predictive Control (MPC) gibi konulara da bakılacak.
+- Barış Tuğrul Ertuğrul'un tezine bakılacak.
+
+## Görüşmeler
+
+- **G1**/30.05.2017/11:30/Ozan Keysan (Yapıldı)
+- **G2**/03.07.2017 07.07.2017 arası bir tarihte planlanacak/Ozan Keysan
