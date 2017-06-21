@@ -2,8 +2,9 @@
 
 ## Alınan Kararlar
 
-- Makalelerin Mendeley'de 'PowerLab altında bir klasörde' tutuluyor. (G1)
+- Makalelerin Mendeley'de 'PowerLab' altında 'aykutd_thesis_journals' adlı klasörde tutuluyor. (G1)
 - SAYP dokümanları GitHub'da SAYP kalsöründe tutuluyor.
+- Araştırılan konular üzerindeki genel düşünceler ve özetler GitHub'da 'Notes_on_Topics' adlı dosyaya işleniyor.
 
 ## Eylem Maddeleri
 
