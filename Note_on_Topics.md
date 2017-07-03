@@ -14,6 +14,7 @@
 	
 - **Harmonic Current Injection**
 	- Creates torque and speed ripples and magnetic flux etc. can be estimated from speed feedback.
+	- Permanent magnet temperature can be estimated using high frequency resistance of the machine.
 	
 ## Control and signal processing techniques
 
