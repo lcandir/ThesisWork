@@ -12,7 +12,15 @@
 	- Can be implemented on an existing motor drive.
 	- Code optimization is needed.
 	
+- **Harmonic Current Injection**
+	- Creates torque and speed ripples and magnetic flux etc. can be estimated from speed feedback.
+	
 ## Control and signal processing techniques
 
 - **Modal pedictive control (MPC)**
 	- Which estimation techniques does it utilize?
+	
+- **Kalman Filter Based Estimation**
+	- Requires less computation and accurate on linear Gaussian systems.
+- **Particle Filter Based Estimation**
+	- Computationally heavy but more accurate on non-linear or non-Gaussian systems.
