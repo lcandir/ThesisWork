@@ -4,6 +4,11 @@
 - Simulation
 - Hardware implementation and controlled experiments
 
+## What are the faults?
+
+- Sth1
+- Sth2
+
 ## Condition monitoring techniques
 
 - **Motor Current Signature Analysis (MCSA)**
