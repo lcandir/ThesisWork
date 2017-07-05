@@ -6,8 +6,12 @@
 
 ## What are the faults?
 
-- Sth1
-- Sth2
+- Rotor asymmetries
+- Stator phase unbalance
+- Rotor phase unbalance
+- Stator turn-to-turn faults
+- Stator open-circuit faults
+- Rotor mass imbalance
 
 ## Condition monitoring techniques
 
@@ -20,6 +24,17 @@
 - **Harmonic Current Injection**
 	- Creates torque and speed ripples and magnetic flux etc. can be estimated from speed feedback.
 	- Permanent magnet temperature can be estimated using high frequency resistance of the machine.
+	
+- **Vibration**
+	- Accelerometers, velocity and displacement sensors can be used.
+- **Acoustic Emission**
+	- Requires large number of sensors and high sampling rates.
+- **Strain**
+- **Torque**
+	- Torque signal can be obtained from electrical variables therefore may not need extra torque transducers.
+- **Temperature**
+- **Oil Parameters**
+- **SCADA Signals**
 	
 ## Control and signal processing techniques
 
