@@ -12,13 +12,14 @@
 - Stator turn-to-turn faults
 - Stator open-circuit faults
 - Rotor mass imbalance
+- Bearing failure
 
 ## Condition monitoring techniques
 
 - **Motor Current Signature Analysis (MCSA)**
 	- Faults create specific harmonics
 	- Extracting data from current harmonics (which faults can be detected?)
-	- Can be implemented on an existing motor drive.
+	- Can be implemented on an existing motor drive!
 	- Code optimization is needed.
 	
 - **Harmonic Current Injection**
@@ -43,5 +44,12 @@
 	
 - **Kalman Filter Based Estimation**
 	- Requires less computation and accurate on linear Gaussian systems.
+	
 - **Particle Filter Based Estimation**
 	- Computationally heavy but more accurate on non-linear or non-Gaussian systems.
+	
+- **Other signal processing methods**
+	- Hilbert Transform
+	- FFT
+	- STFT
+	- Look journals for more details.
