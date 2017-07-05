@@ -9,7 +9,7 @@
 - Rotor asymmetries
 - Stator phase unbalance
 - Rotor phase unbalance
-- Stator turn-to-turn faults
+- Stator turn-to-turn short circuit faults
 - Stator open-circuit faults
 - Rotor mass imbalance
 - Bearing failure
@@ -52,4 +52,6 @@
 	- Hilbert Transform
 	- FFT
 	- STFT
-	- Look journals for more details.
+	- Look journals for more details. (4 July 2017)
+	
+- **Neural Network, AI**
