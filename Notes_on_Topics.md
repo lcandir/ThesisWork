@@ -12,6 +12,7 @@
 - Stator turn-to-turn short circuit faults
 - Stator open-circuit faults
 - Rotor mass imbalance
+- Rotor misalignment
 - Bearing failure
 
 ## Condition monitoring techniques
