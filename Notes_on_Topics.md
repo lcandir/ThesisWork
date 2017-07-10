@@ -14,6 +14,9 @@
 - Rotor mass imbalance
 - Rotor misalignment
 - Bearing failure
+- Demagnetization of Permanent Magnet
+	- Local Demagnetization (Creates harmonics in back EMF)
+	- Uniform Demagnetization (Does not create harmonics in back EMF but chagnes the amplitude)
 
 ## Condition monitoring techniques
 
