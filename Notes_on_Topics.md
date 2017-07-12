@@ -44,7 +44,7 @@
 	
 ## Control and signal processing techniques
 
-- **Modal pedictive control (MPC)**
+- **Model based pedictive control (MPC)**
 	- Which estimation techniques does it utilize?
 	
 - **Kalman Filter Based Estimation**
