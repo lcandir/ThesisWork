@@ -8,7 +8,7 @@
 
 ## Eylem Maddeleri
 
-- [x] G2'ye kadar literatür taramasının tamamlanması hedefleniyor. Sadece cond. monitoring değil daha genel kapsamlı araştırma yapılarak konuya karar verilmeye çalışılacak.
+- **[x]** G2'ye kadar literatür taramasının tamamlanması hedefleniyor. Sadece cond. monitoring değil daha genel kapsamlı araştırma yapılarak konuya karar verilmeye çalışılacak.
 - [x] Makaleler genel hatlarıyla konsept hakkında bir fikir verecek şekilde okunacak. Bu aşamada review, trend topics vs makaleleri de okunabilir.
 - [ ] Nihayi hedef konunun belirlenmesi ve yaz sonu gelmeden! bir zaman çizelgesi oluşturulması olacak.
 - [ ] Çalışmalar ve planlar 2 dönem içinde yüksek lisansı bitirme hedefi ile yapılacak.
